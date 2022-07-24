@@ -170,6 +170,10 @@ html, body{
     .carousel-item img {
         height: 450px;
     }
+    .slide .title{
+        font-size: 3rem;
+        
+    }
     .about {
         padding-top: 3rem;
     }
